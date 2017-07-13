@@ -11,6 +11,7 @@
 * Sushi Cards
   * [Translating Sushi Cards](translating sushi cards.md)
   * [Special notes for Beginner HTML](sushi/beginner html.md)
+  * [Bootstrap Sushi Cards](sushi/bootstrap sushi.md)
 * Website
   * [Translating the CoderDojo website](website translating.md)
 * Tools & Guides
