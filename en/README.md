@@ -8,7 +8,7 @@
 
 ## Sushi Card Creation
 
-* Bootstrap Sushi Cards—Coming soon!
+* [Bootstrap Sushi Cards](sushi/bootstrap sushi.md)
 
 ## Challenge Card Translation
 
