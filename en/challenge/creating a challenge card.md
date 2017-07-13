@@ -2,7 +2,7 @@
 
 ## Choosing your topic
 
-Pick any programing language, or set of languages \(e.g. HTML, CSS and JavaScript\) that you know and pick a challenge that might be interesting to Dojo attendees. Challenges you've already tried at your own Dojo are usually the best choice. **Don't forget to check the **[**list of existing cards**](/en/challenge/existing challenge cards.md)** to make sure your idea hasn't been done already!**
+Pick any programing language, or set of languages \(e.g. HTML, CSS and JavaScript\) that you know and pick a challenge that might be interesting to Dojo attendees. Challenges you've already tried at your own Dojo are usually the best choice. **Don't forget to check the **[**list of existing cards**](challenge/existing challenge cards.md)** to make sure your idea hasn't been done already!**
 
 ## Using the template
 
