@@ -1,28 +1,20 @@
-
-
-The Beginner HTML and CSS Sushi Cards use Trinket, an online code-editing platform, for creating websites. A number of example projects will be available to guide Ninjas if they are stuck on a particular Sushi Card.
-
-# What you need to do
-
-There is a separate Trinket project for each Sushi Card, as well as a "finished product" that shows what the website might look like after completing the whole set of Sushi Cards.
+The Beginner HTML and CSS Sushi Cards use Trinket, an online code-editing platform, for creating websites. A number of example projects will be available to guide Ninjas if they are stuck on a particular Sushi Card. There is a separate Trinket project for each Sushi Card, as well as a "finished product" that shows what the website might look like after completing the whole set of Sushi Cards.
 
 The content of these examples are in English and may need to be translated for Sushi Cards in other languages.
 
-For each one, you need to
+# What you need to do
 
-1. Fork/Remix the project
-2. Translate the content as necessary
-3. Share the Trinket and save the URL
-
-**Please send a list of the URLs to the translated projects**
+1. For each of the projects listed below,
+   1. Fork/Remix the project
+   2. Translate the content as necessary
+   3. "Share" the Trinket and save the Link generated
+2. Please send a list of these URLs
 
 # How to do it
 
 See the Trinket How-To Guide for instructions on remixing projects and getting the new URLs for sharing:
 
-https://www.gitbook.com/read/book/coderdojo/trinket-instructions
-
-
+[https://www.gitbook.com/read/book/coderdojo/trinket-instructions](https://www.gitbook.com/read/book/coderdojo/trinket-instructions)
 
 # List of Trinket Projects
 
