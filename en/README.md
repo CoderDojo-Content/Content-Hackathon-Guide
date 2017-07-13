@@ -23,7 +23,8 @@
 ## Sushi Card Translation
 
 * [Translating Sushi Cards](translating sushi cards.md)
-* [Translating with GitBook](translating with gitbook.md)
+* [Special notes for Beginner HTML](sushi/beginner html.md)
+
 
 ## Website Translation
 
@@ -34,6 +35,8 @@
 * [Guidelines for Translation](guidelines for translation.md)
 * [CoderDojo Style Guide](http://dojo.soy/style)
 * [Translating with CrowdIn](translating with crowdin.md)
+* [Translating with GitBook](translating with gitbook.md)
+
 
 
 
