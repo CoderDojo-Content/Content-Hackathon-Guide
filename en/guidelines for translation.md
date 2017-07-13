@@ -2,7 +2,8 @@
 
 ## Do
 * Try to maintain the tone of the material
-* Translate the technical terms to match the way they're used in the destination language
+* Translate the technical terms to match the way they're used in the target language
+* Follow the links in Sushi Cards/Challenge Cards and, where possible, replace with appropriate resources in the target language
 * Remember to translate text strings and variable names in code samples, and keep them consistent
 * Ask questions if you're not sure!
 
