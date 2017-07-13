@@ -23,13 +23,11 @@
 ## Sushi Card Translation
 
 * Translating Sushi Cards
-* Beginner Scratch
-* Beginner HTML
-* Beginner Python
+* Translating with GitBook
 
 ## Website Translation
 
-* Translating the CoderDojo website
+* [Translating the CoderDojo website](website translating.md)
 
 ## Tools & References
 
