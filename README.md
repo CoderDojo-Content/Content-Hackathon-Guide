@@ -1,3 +1,8 @@
-# My Awesome Book
+# A guide to participating in the CoderDojo Content Hackathon
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+| Version | Date | Release Notes |
+| :--- | :--- | :--- |
+| 0.0.1a | 2017-07-12 | Alpha release for 1st Content Hackathon |
+
+
+
