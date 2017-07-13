@@ -23,7 +23,7 @@
 ## Sushi Card Translation
 
 * Translating Sushi Cards
-* Translating with GitBook
+* [Translating with GitBook](translating with gitbook.md)
 
 ## Website Translation
 
