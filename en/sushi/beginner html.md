@@ -8,7 +8,7 @@ The content of these examples are in English and may need to be translated for S
    1. Fork/Remix the project
    2. Translate the content as necessary
    3. "Share" the Trinket and save the Link generated
-2. Please send a list of these URLs
+2. Please send us a list of the URLs
 
 # How to do it
 
