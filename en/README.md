@@ -8,7 +8,7 @@
 
 ## Sushi Card Creation
 
-* Bootstrap Sushi Cards
+* Bootstrap Sushi Cards—Coming soon!
 
 ## Challenge Card Translation
 
@@ -18,11 +18,11 @@
 
 ## Social Media Translation
 
-* Translating Social Media
+* Translating Social Media—Coming soon!
 
 ## Sushi Card Translation
 
-* Translating Sushi Cards
+* [Translating Sushi Cards](translating sushi cards.md)
 * [Translating with GitBook](translating with gitbook.md)
 
 ## Website Translation
