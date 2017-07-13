@@ -13,7 +13,6 @@
 ## Challenge Card Translation
 
 * [Translating Challenge Cards](challenge/translating challenge cards.md)
-
 * [List of Existing Challenge Cards](challenge/existing challenge cards.md)
 
 ## Social Media Translation
