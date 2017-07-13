@@ -7,4 +7,4 @@
 * Ask questions if you're not sure!
 
 ## Don't
-* Worry about sticking to the precise phrasing or descriptions I've used
+* Worry about sticking to the precise phrasing or descriptions I've used. Do what seems right for your language and locale.
