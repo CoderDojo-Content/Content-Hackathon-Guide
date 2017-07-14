@@ -8,6 +8,12 @@ If you're working on one of these translations, I've given you a link to the pro
 
 Please go check out the [guidelines for translators](guidelines for translation.md) too!
 
+## Finding the Cards you've been assigned
+
+You will have been assigned specific Sushi Cards to translate in the assignments sheet \(check your email!\). The cards have been assigned by number, in the order they appear in the book's left navigation.
+
+Make sure you're looking at the book in your language (there should be a language selector control in the bottom right—choose the right two letter code) but remember you'll still see English, as you haven't translated anything yet! Then look in the left navigation bar and count down the names of the files until you reach the numbers you've been assigned. Click on them and start translating! 
+
 ## Save regularly!
 
 The “Publish” button, in the top right of the GitBook editing window will save your changes. Use it regularly! Don't worry about publishing something that's partially finished—Your work is in a branch, so won't be generally visible until we approve that branch.

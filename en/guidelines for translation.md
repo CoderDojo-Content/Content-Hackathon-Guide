@@ -9,3 +9,4 @@
 
 ## Don't
 * Worry about sticking to the precise phrasing or descriptions I've used. Do what seems right for your language and locale.
+* Change file names! I'll use these to understand what fits where, so please don't localise them!
