@@ -12,5 +12,8 @@ The aim is to offer attendees who have learned the elements of a language or too
 
 ## Examples
 
-* [Peeking character (HTML, CSS & JavaScript)](http://kata.coderdojo.com/images/d/d5/Peeking_Character_Challenge.pdf)
-* [Python Blackjack (Python)](http://kata.coderdojo.com/images/3/3d/Python_Blackjack.pdf)
+* [Peeking character \(HTML, CSS & JavaScript\)](http://kata.coderdojo.com/images/d/d5/Peeking_Character_Challenge.pdf)
+* [Python Blackjack \(Python\)](http://kata.coderdojo.com/images/3/3d/Python_Blackjack.pdf)
+
+
+
