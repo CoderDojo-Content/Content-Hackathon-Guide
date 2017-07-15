@@ -1,3 +1,5 @@
+**Note that these instructions are in addition to the GitBook instruction which also apply to the HTML & CSS Sushi Cards—These instructions specifically refer to the code samples that are referenced in the project. The actual Sushi Cards themselves are hosted here on GitBook.**
+
 The Beginner HTML and CSS Sushi Cards use Trinket, an online code-editing platform, for creating websites. A number of example projects will be available to guide Ninjas if they are stuck on a particular Sushi Card. There is a separate Trinket project for each Sushi Card, as well as a "finished product" that shows what the website might look like after completing the whole set of Sushi Cards.
 
 The content of these examples are in English and may need to be translated for Sushi Cards in other languages.
